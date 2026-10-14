@@ -1,3 +1,3 @@
 # QA Checklist
 
-Registration status: draft
+- Registration status: approved
